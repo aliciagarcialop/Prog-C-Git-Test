@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(void)  {
-	printf("Estic a local!\n")
+	printf("Tot resolt!/n")
 	return 0;
 
